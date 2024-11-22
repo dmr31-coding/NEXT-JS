@@ -1,0 +1,30 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Essence Mascara Lash Princess",
+            "description": "The Essence Mascara Lash Princess is a popular elty-free formula.",
+            
+            "price": 5.99
+            
+          },
+          {
+            "id": 2,
+            "title": "pppEssence Mascara Lash Princess",
+            "description": "00000000The Essence Mascara cruelty-free formula.",
+            
+            "price": 7.99
+            
+          },
+
+          {
+            "id": 3,
+            "title": "ooooooooooooooooooooooyyyyyyyyyyyyyEssence Mascara Lash Princess",
+            "description": "The Essence Mascara Lash Princess is ree formula.",
+            
+            "price": 8.99
+            
+          }
+    ]
+}
+
